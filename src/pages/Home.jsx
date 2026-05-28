@@ -27,8 +27,30 @@ function Home() {
         <div>
             <div className="bg"
             style={{ backgroundImage: `url(${homeBg})` }}>
-
+                <div className="max-w-md md:max-w-xl text-left px-4 sm:px-0 ml-2 md:ml-8 lg:ml-20 py-30">
+                <h2 className="text-white text-6xl md:text-6xl lg:text-7xl font-luxury italic font-bold leading-tight tracking-wide">
+                    NATURALLY FORMULATED.<br/>
+                    SCIENTIFICALLY REFINED.
+                </h2>
+                <button className="bg-black hover:bg-zinc-800 text-white font-bold py-3 px-8 rounded-full mt-4 ml-4 transition-colors duration-300">
+                    Shop Now
+                </button>
+                <button className="bg-white hover:bg-zinc-300 text-black font-bold py-3 px-7 rounded-full mt-4 ml-4 transition-colors duration-300">
+                    Contact Us
+                </button>
+                
+                    <p className="max-w-lg text-stone-800 font-sans md:text-lg leading-relaxed tracking-wide mt-16">
+                    Experience the perfect harmony of clean, plant-based botanicals and advanced clinical science. 
+                    High-performance elixirs engineered to deeply nourish your skin and revive your tresses.
+                    </p>
+                
+                </div>
             </div>
+
+                
+
+
+
             <div className="container mx-auto my-10 px-4">
                <div className="flex gap-4">
                 {categories.map((cat) => {

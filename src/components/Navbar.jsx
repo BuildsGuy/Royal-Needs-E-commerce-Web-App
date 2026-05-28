@@ -57,7 +57,7 @@ function Navbar() {
                     </Link>
                    </div> 
                     <form className="w-1/2 sm:block hidden">
-                        <input type="text" placeholder="Search Product" className="bg-zinc-100100 rounded-md border border-zinc-200 
+                        <input type="text" placeholder="Search Product..." className="bg-zinc-100100 rounded-md border border-zinc-300 
                         focus:outline-none py-3 px-3 
                         w-full"
                         value={searchTerm}
