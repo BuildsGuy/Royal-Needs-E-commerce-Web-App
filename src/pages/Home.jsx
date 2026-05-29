@@ -8,13 +8,14 @@ import { setSelectedCategory } from '../features/products/ProductSlice';
 
 
 const categories = [
+    "All",
     "Shampoo",
     "Hair Set",
     "Tumeric Soap",
     "Face Wash",
     "Hair Oil",
     "Conditioner",
-    "All",
+    
     
     
 ];
