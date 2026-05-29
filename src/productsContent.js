@@ -6,7 +6,7 @@ const products = [
     price: 29.99,
     category: "Shampoo",
     description: "A nourishing shampoo for clean and healthy hair.",
-    image: "/src/assets/imgs/shampoo.jpg",
+    image: "/imgs/shampoo.jpg",
 },
 
 {
@@ -15,7 +15,7 @@ const products = [
     price: 24.99,
     category: "Hair Set",
     description: "A complete hair set for nourishing and styling your hair.",
-    image: "/src/assets/imgs/hair-set.jpg",
+    image: "/imgs/hair-set.jpg",
 },
 
 {
@@ -24,7 +24,7 @@ const products = [
     price: 9.99,
     category: "Tumeric Soap",
     description: "A natural turmeric soap for glowing and healthy skin.",
-    image: "/src/assets/imgs/tumeric-soap.jpg",
+    image: "/imgs/tumeric-soap.jpg",
 },
 
 
@@ -34,7 +34,7 @@ const products = [
     price: 14.99,
     category: "Face Wash",
     description: "A gentle face wash for cleansing and refreshing your skin.",
-    image: "/src/assets/imgs/face-wash.jpg",
+    image: "/imgs/face-wash.jpg",
 },
 
 {
@@ -43,7 +43,7 @@ const products = [
     price: 19.99,
     category: "Hair Oil",
     description: "A nourishing hair oil for clean and healthy hair.",
-    image: "/src/assets/imgs/hair-oil.jpg",
+    image: "/imgs/hair-oil.jpg",
 },
 
 {
@@ -52,7 +52,7 @@ const products = [
     price: 19.99,
     category: "Conditioner",
     description: "A moisturizing conditioner for soft and manageable hair.",
-    image: "/src/assets/imgs/conditioner.jpg",
+    image: "/imgs/conditioner.jpg",
 },
 
 
